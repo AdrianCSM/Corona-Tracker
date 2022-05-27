@@ -84,7 +84,7 @@ exports[`Countries snapshot renders correctly 1`] = `
         <h3
           className="date"
         >
-          2022-05w-27
+          2022-05-28
         </h3>
       </div>
       <input
